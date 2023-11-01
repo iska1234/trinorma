@@ -25,7 +25,6 @@ const TablaAreas = ({ filteredData }) => {
   const [columnWidth, setColumnWidth] = useState(300);
   const [searchTerm, setSearchTerm] = useState('');
 
-
   useEffect(() => {
     const handleResize = () => {
       if (tableRef.current) {
