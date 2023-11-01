@@ -281,7 +281,7 @@ const Empleado = () => {
                   xs={8}
                   sx={{
                     display: "flex",
-                    alignItems: "center",
+                    alignItems: "center   ",
                     justifyContent: "flex-end",
                   }}
                 >

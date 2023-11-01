@@ -149,6 +149,7 @@ const DatosEmpleador = () => {
           >
             Cargos
           </Typography>
+
         </div>
       </Box>
       {/* El contenedor con el searchbox */}
